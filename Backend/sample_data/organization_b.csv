@@ -1,0 +1,7 @@
+timestamp,source_ip,event_type,failed_attempts,destination_port,bytes_sent
+11:00,10.1.0.5,normal_login,0,443,1500
+11:05,172.16.0.20,failed_login,9,22,600
+11:10,10.1.0.8,normal_login,0,443,1000
+11:15,172.16.0.35,outbound,0,4444,85000
+11:20,10.1.0.12,normal_login,0,443,2000
+11:25,172.16.0.45,port_scan,0,0,350

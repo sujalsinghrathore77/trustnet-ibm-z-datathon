@@ -1,0 +1,18 @@
+{
+  "organizations_connected": 2,
+  "privacy_filtering": "ENABLED",
+  "common_categories": [
+    "outbound",
+    "port_scan",
+    "repeated_failed_login"
+  ],
+  "fingerprint_matches": 3,
+  "virustotal": {
+    "integration_enabled": true,
+    "public_ip_lookups": 0,
+    "successful_lookups": 0,
+    "skipped_non_public_indicators": 0,
+    "lookup_errors": 0
+  },
+  "status": "SUCCESS"
+}
